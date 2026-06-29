@@ -1,2 +1,1 @@
-# Cyber Security Intrusive Detection Analysis
-This project focuses on analyzing network traffic data to identify malicious activities, specifically focusing on Brute Force, Cross-Site Scripting (XSS), and SQL Injection attacks using the CICIDS2017 dataset. The methodology involves data cleaning, exploratory data analysis, SQL-based threat analytics, and the development of interactive dashboards using Python (Pandas, NumPy, Matplotlib, Seaborn) and Power BI.
+# (CS-IDS) Cyber Security Intrusive Detection Analysis
