@@ -37,11 +37,13 @@ The project adopted a structured approach to cybersecurity intrusion detection a
 - Developed a framework that offers enhanced threat visibility and improved understanding of attack behaviors.
 
 ## Repository Structure
-- CyberSecurityIntrusionDetectionAnalysis_With_SQL_Screenshots.pdf: The original report document.
-- cyber_analysis_python.ipynb: Jupyter Notebook containing Python code for data cleaning, EDA, and visualization generation.
-- cleaned_cybersecurity_dataset.csv: Cleaned dataset used for analysis.
-- Updated_CyberSecurityIntrusionDetectionAnalysis.pdf: The updated report with Python visualizations and refined layout.
-- README.md: This file.
+- CS IDA Report:
+The original report document.
+- cyber_analysis_python.ipynb:
+ Jupyter Notebook containing Python code for data cleaning, EDA, and visualization generation.
+- cleaned_cybersecurity_dataset.csv:
+ Cleaned dataset used for analysis.
+
 
 ## How to Use/Setup
 
