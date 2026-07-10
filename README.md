@@ -1,14 +1,13 @@
 # (CS-IDS) Cyber Security Intrusive Detection Analysis
 
 ## Project Overview
-
 This project focuses on developing a robust intrusion detection and analysis framework by analyzing network traffic data. Utilizing a combination of Python, SQL, and Power BI, the aim is to identify malicious activities such as Brute Force, Cross-Site Scripting (XSS), and SQL Injection attacks within the CICIDS2017 dataset. The primary objective is to enhance cybersecurity threat visibility, improve understanding of attack patterns, and provide efficient identification of suspicious entities through comprehensive reporting and visualization.
 
 
 ## Features
-- Data Cleaning and Preprocessing: Robust handling of duplicate records, missing values, and data standardization.
-- Exploratory Data Analysis (EDA): In-depth analysis of attack distribution, traffic volume, protocol usage, and packet behavior.
-- SQL-based Threat Analytics: Execution of SQL queries to identify specific attack distributions, analyze source and destination IP activity, and pinpoint high-risk IPs.
+- **Data Cleaning and Preprocessing**: Robust handling of duplicate records, missing values, and data standardization.
+- **Exploratory Data Analysis (EDA)**: In-depth analysis of attack distribution, traffic volume, protocol usage, and packet behavior.
+- **SQL-based Threat Analytics:** Execution of SQL queries to identify specific attack distributions, analyze source and destination IP activity, and pinpoint high-risk IPs.
 - Interactive Dashboards: Development of Power BI dashboards for executive overview, traffic analysis, and attack analysis
 - Python Visualizations: Generation of key insights through Matplotlib and Seaborn visualizations.
 - Comprehensive Reporting: Detailed documentation of findings and security recommendations.
