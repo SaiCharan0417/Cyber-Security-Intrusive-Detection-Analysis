@@ -14,7 +14,7 @@ This project focuses on developing a robust intrusion detection and analysis fra
 
 
 ## Technologies Used
-- Programming Language: Python
+- PROGRAMMING LANGUAGE: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 - Database: MySQL
 - Visualization Tools: Power BI Desktop, Matplotlib, Seaborn
