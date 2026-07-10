@@ -5,10 +5,10 @@ This project focuses on developing a robust intrusion detection and analysis fra
 
 
 ## Features
-- **Data Cleaning and Preprocessing**: Robust handling of duplicate records, missing values, and data standardization.
-- **Exploratory Data Analysis (EDA)**: In-depth analysis of attack distribution, traffic volume, protocol usage, and packet behavior.
-- **SQL-based Threat Analytics:** Execution of SQL queries to identify specific attack distributions, analyze source and destination IP activity, and pinpoint high-risk IPs.
-- Interactive Dashboards: Development of Power BI dashboards for executive overview, traffic analysis, and attack analysis
+- **Data Cleaning and Preprocessing**:   Robust handling of duplicate records, missing values, and data standardization.
+- **Exploratory Data Analysis (EDA)**:   In-depth analysis of attack distribution, traffic volume, protocol usage, and packet behavior.
+- **SQL-based Threat Analytics:**   Execution of SQL queries to identify specific attack distributions, analyze source and destination IP activity, and pinpoint high-risk IPs.
+- **Interactive Dashboards:** Development of Power BI dashboards for executive overview, traffic analysis, and attack analysis
 - Python Visualizations: Generation of key insights through Matplotlib and Seaborn visualizations.
 - Comprehensive Reporting: Detailed documentation of findings and security recommendations.
 
