@@ -60,6 +60,6 @@ The project adopted a structured approach to cybersecurity intrusion detection a
 - REVIEW REPORTS: Examine the PDF reports for detailed analysis and findings.
 
 ## Author
-- Sai Charan
+- Sai Charan Rapolu
 - Student, NGIT CSE’29
-- LINKEDIN📧- [https://www.linkedin.com/in/sai-charan-rapolu-18552036b/]
+- LINKEDIN📧- [https://www.linkedin.com/in/sai-charan-rapolu/]
