@@ -47,7 +47,7 @@ The project adopted a structured approach to cybersecurity intrusion detection a
 
 - CLONE THE REPOSITORY: git clone https://github.com/SaiCharan0417/Cyber-Security-Intrusion-Detection-Analysis.git
 
-- NAVIGATE TO THE PROJECT DIRECTORY:cd Cyber-Security-Intrusion-Detection-Analysis
+- NAVIGATE TO THE PROJECT DIRECTORY:''' cd Cyber-Security-Intrusion-Detection-Analysis'''
 
 - INSTALL NECESSARY PYTHON LIBRARIES: pip install pandas numpy matplotlib seaborn
 
