@@ -45,11 +45,11 @@ The project adopted a structured approach to cybersecurity intrusion detection a
 
 ## How to Use/Setup
 
-- CLONE THE REPOSITORY: git clone https://github.com/SaiCharan0417/Cyber-Security-Intrusion-Detection-Analysis.git
+- CLONE THE REPOSITORY: ```git clone https://github.com/SaiCharan0417/Cyber-Security-Intrusion-Detection-Analysis.git```
 
-- NAVIGATE TO THE PROJECT DIRECTORY:''' bash cd Cyber-Security-Intrusion-Detection-Analysis'''
+- NAVIGATE TO THE PROJECT DIRECTORY:``` cd Cyber-Security-Intrusion-Detection-Analysis```
 
-- INSTALL NECESSARY PYTHON LIBRARIES: pip install pandas numpy matplotlib seaborn
+- INSTALL NECESSARY PYTHON LIBRARIES: ```pip install pandas numpy matplotlib seaborn```
 
 - SET UP MYSQL DATABASE: Ensure MySQL is installed and configured. The cyber_analysis_python.ipynb notebook assumes a cleaned_cybersecurity_dataset.csv file is available for import into MySQL.
 
