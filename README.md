@@ -15,22 +15,20 @@ This project focuses on developing a robust intrusion detection and analysis fra
 
 ## Technologies Used
 - PROGRAMMING LANGUAGE: Python
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn
-- Database: MySQL
-- Visualization Tools: Power BI Desktop, Matplotlib, Seaborn
-- Development Environment: Jupyter Notebook, VS Code
+- LIBRARIES: Pandas, NumPy, Matplotlib, Seaborn
+- DATABASE: MySQL
+- VISUALISATION TOOLS: Power BI Desktop, Matplotlib, Seaborn
+- DEVELOPMENT ENVIRONMENT: Jupyter Notebook, VS Code
 
 
 ## Methodology
 The project adopted a structured approach to cybersecurity intrusion detection analysis, encompassing the following key steps:
 
-- Dataset Collection: Acquired the CICIDS2017 Thursday Web Attacks dataset.
-- Data Cleaning: Performed data cleaning, including removal of duplicates, handling missing values, and standardizing data.
-- Exploratory Data Analysis (EDA): Conducted statistical and visual analysis to understand dataset characteristics and identify patterns.
-- SQL Analysis: Executed SQL queries for detailed threat analysis, focusing on attack distributions, IP activity, and protocol usage.
-- Power BI Dashboard Development: Designed and implemented interactive dashboards for comprehensive data presentation.
-- Algorithm Implementation: Followed a systematic algorithm for processing network traffic data and deriving actionable intelligence.
-- Experiment Process: Divided into distinct phases for systematic building and evaluation of the intrusion detection system.
+- DATASET COLLECTION: Acquired the CICIDS2017 Thursday Web Attacks dataset.
+- DATA CLEANING: Performed data cleaning, including removal of duplicates, handling missing values, and standardizing data.
+- EXPLORATORY DATA ANALYSIS (EDA): Conducted statistical and visual analysis to understand dataset characteristics and identify patterns.
+- SQL ANALYSIS: Executed SQL queries for detailed threat analysis, focusing on attack distributions, IP activity, and protocol usage.
+- POWER BI DASHBOARD: Designed and implemented interactive dashboards for comprehensive data presentation.
 
 ## Key Results
 - Analyzed over 170,000 network traffic records, identifying more than 2,180 attacks.
@@ -47,19 +45,19 @@ The project adopted a structured approach to cybersecurity intrusion detection a
 
 ## How to Use/Setup
 
-1.Clone the repository:
-git clone https://github.com/SaiCharan0417/Cyber-Security-Intrusion-Detection-Analysis.git
+- CLONE THE REPOSITORY: git clone https://github.com/SaiCharan0417/Cyber-Security-Intrusion-Detection-Analysis.git
 
-2.Navigate to the project directory:
-cd Cyber-Security-Intrusion-Detection-Analysis
+- NAVIGATE TO THE PROJECT DIRECTORY:cd Cyber-Security-Intrusion-Detection-Analysis
 
-3.
-Install necessary Python libraries:
-pip install pandas numpy matplotlib seaborn
+- INSTALL NECESSARY PYTHON LIBRARIES: pip install pandas numpy matplotlib seaborn
 
-4.Set up MySQL database: Ensure MySQL is installed and configured. The cyber_analysis_python.ipynb notebook assumes a cleaned_cybersecurity_dataset.csv file is available for import into MySQL.
+- SET UP MYSQL DATABASE: Ensure MySQL is installed and configured. The cyber_analysis_python.ipynb notebook assumes a cleaned_cybersecurity_dataset.csv file is available for import into MySQL.
 
-5.Run the Jupyter Notebook: Open cyber_analysis_python.ipynb in Jupyter and execute cells to reproduce data cleaning, EDA, and Python visualizations.
+- RUN THE JUPYTER NOTEBOOK: Open cyber_analysis_python.ipynb in Jupyter and execute cells to reproduce data cleaning, EDA, and Python visualizations.
 
-6.Review Reports: Examine the PDF reports for detailed analysis and findings.
+- REVIEW REPORTS: Examine the PDF reports for detailed analysis and findings.
 
+## Author
+- Sai Charan
+- Student, NGIT CSE’29
+- LINKEDIN📧- [https://www.linkedin.com/in/sai-charan-rapolu-18552036b/]
