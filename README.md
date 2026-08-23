@@ -3,7 +3,6 @@
 ## Project Overview
 This project focuses on developing a robust intrusion detection and analysis framework by analyzing network traffic data. Utilizing a combination of Python, SQL, and Power BI, the aim is to identify malicious activities such as Brute Force, Cross-Site Scripting (XSS), and SQL Injection attacks within the CICIDS2017 dataset. The primary objective is to enhance cybersecurity threat visibility, improve understanding of attack patterns, and provide efficient identification of suspicious entities through comprehensive reporting and visualization.
 
-
 ## Features
 - **DATA CLEANING AND PREPROCESSING**:   Robust handling of duplicate records, missing values, and data standardization.
 - **EXPLORATORY DATA ANALYSIS (EDA)**:   In-depth analysis of attack distribution, traffic volume, protocol usage, and packet behavior.
